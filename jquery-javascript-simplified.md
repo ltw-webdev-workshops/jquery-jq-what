@@ -15,6 +15,8 @@ slides:
       - Provides a bunch of already made functionality
       - *Not required to do HTML manipulation*
 
+      **jQuery is essentially just a bunch of pre-written Javascript.**
+
   - content: |
       ## It’s all money from here
 
