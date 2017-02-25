@@ -37,17 +37,17 @@ slides:
 
   - type: figure
     numbered: 3
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/carousel-next-prev.mp4"
-    caption: "**Carousel, with next/previous buttons**"
-
-  - type: figure
-    numbered: 4
     video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/data-filter.mp4"
     caption: "**Data filter**"
 
   - type: figure
-    numbered: 5
+    numbered: 4
     video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/to-do-list.mp4"
     caption: "**To-do list**"
+
+  - type: figure
+    numbered: 5
+    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/carousel-next-prev.mp4"
+    caption: "**Carousel, with next/previous buttons**"
 
 ---
