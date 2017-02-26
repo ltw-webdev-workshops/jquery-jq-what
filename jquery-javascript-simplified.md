@@ -15,14 +15,14 @@ slides:
       - Provides a bunch of already made functionality
       - *Not required to do HTML manipulation*
 
-      **jQuery is essentially just a bunch of pre-written Javascript.**
+      **jQuery is essentially just a bunch of pre-written Javascript**
 
   - content: |
       ## It’s all money from here
 
       Everything that is jQuery is inside the `$()` function
 
-      Use the `$()` function to select HTML then manipulate it
+      Use the `$()` function to select & manipulate HTML
 
   - content: |
       ## Select & go
@@ -35,7 +35,7 @@ slides:
   - content: |
       ## Select with CSS
 
-      jQuery (and Javascript) use CSS selectors to grab things in HTML
+      jQuery (and Javascript) use CSS selectors to grab things in the HTML document
 
       - `ul`, `h1`, `div`
       - `.dino-list`, `.bones`

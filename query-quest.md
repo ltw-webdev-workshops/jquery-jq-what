@@ -149,7 +149,7 @@ slides:
   - type: code
     numbered: 10
     before: |
-      ### Find a jQuery function that will choose the element surrounding the <h2>:
+      ### You’ve selected the <h2> with jQuery, find a function that gets the surrounding element:
     html: |
       <div class="tab">
         <h2>Ankylosaurus</h2>
@@ -163,6 +163,7 @@ slides:
     html: |
       <label for="name">Name</label>
       <input id="name">
+    html_lines: 2
 
   - type: code
     numbered: 12
