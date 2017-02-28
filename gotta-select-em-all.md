@@ -27,7 +27,7 @@ slides:
       4. *We’ll discuss the answers at the end*
 
   - type: countdown
-    minutes: 7
+    minutes: 10
 
   - type: code
     numbered: 1
@@ -72,12 +72,18 @@ slides:
         <li>List item</li>
       </ul>
 
+      <ul>
+        <li>List item</li>
+        <li>List item</li>
+        <li>List item</li>
+      </ul>
+
       <ol class="list-group">
         <li>List item</li>
         <li>List item</li>
         <li>List item</li>
       </ol>
-    html_lines: "2-4,8-10"
+    html_lines: "2,3,4,14,15,16"
 
   - type: code
     numbered: 5
