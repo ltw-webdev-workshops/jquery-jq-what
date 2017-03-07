@@ -26,7 +26,7 @@ slides:
         <br>& write the CSS selector to grab it
       4. *We’ll discuss the answers at the end*
 
-  - type: countdown
+  - type: timer
     minutes: 10
 
   - type: code

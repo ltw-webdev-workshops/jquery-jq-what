@@ -27,7 +27,7 @@ slides:
 
       ### [https://api.jquery.com/ ➔](https://api.jquery.com/)
 
-  - type: countdown
+  - type: timer
     minutes: 12
 
   - type: code
