@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "jQuery jigsaw"
+desc: "A small group activity to help remember code names & functions by assembling pre-written pieces together to form complete programs."
 
 slides:
   - type: super-big-text

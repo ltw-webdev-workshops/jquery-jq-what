@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "’Query quest"
+desc: "An activity to help understand online documentation by presenting a series of quests that can only be solved by digging through the documentation."
 
 slides:
   - type: super-big-text

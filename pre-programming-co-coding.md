@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Pre-programming, co-coding"
+desc: "A small activity to help break problems down into English steps and describe each thing that’s happening in a interaction."
 
 slides:
   - type: super-big-text

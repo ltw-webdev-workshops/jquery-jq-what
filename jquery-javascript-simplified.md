@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "jQuery—Javascript simplified"
+desc: "An introductory slide deck explaining what jQuery is and how it helps us do Javascript-y things."
 
 slides:
   - type: super-big-text

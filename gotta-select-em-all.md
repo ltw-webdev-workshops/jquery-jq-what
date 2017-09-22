@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Gotta select ’em all"
+desc: "An activity to remind everyone of all the amazing & complex CSS selectors that exist to help understand choosing elements in Javascript."
 
 slides:
   - type: super-big-text
