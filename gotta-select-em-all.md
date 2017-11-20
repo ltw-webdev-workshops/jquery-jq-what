@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
 title: "Gotta select ’em all"
-desc: "An activity to remind everyone of all the amazing & complex CSS selectors that exist to help understand choosing elements in Javascript."
+desc: "An activity to remind everyone of all the amazing & complex CSS selectors that exist to help understand choosing elements in JavaScript."
 
 slides:
   - type: super-big-text
@@ -11,9 +11,9 @@ slides:
   - content: |
       ## What & why
 
-      To code Javascript (& jQuery) we need to understand all the complex CSS selectors.
+      To code JavaScript (& jQuery) we need to understand all the complex CSS selectors.
 
-      Javascript uses CSS selectors to choose what HTML we want to manipulate.
+      JavaScript uses CSS selectors to choose what HTML we want to manipulate.
 
       **Effectively understanding CSS selectors means being able to manipulate HTML.**
 

@@ -1,21 +1,21 @@
 ---
 layout: slide-deck
-title: "jQuery—Javascript simplified"
-desc: "An introductory slide deck explaining what jQuery is and how it helps us do Javascript-y things."
+title: "jQuery—JavaScript simplified"
+desc: "An introductory slide deck explaining what jQuery is and how it helps us do JavaScript-y things."
 
 slides:
   - type: super-big-text
     content: |
-      **jQuery—Javascript simplified**
+      **jQuery—JavaScript simplified**
 
   - content: |
-      ## jQuery is Javascript
+      ## jQuery is JavaScript
 
       - Simplifies the interface to HTML
       - Provides a bunch of already made functionality
       - *Not required to do HTML manipulation*
 
-      **jQuery is essentially just a bunch of pre-written Javascript**
+      **jQuery is essentially just a bunch of pre-written JavaScript**
 
   - content: |
       ## It’s all money from here
@@ -35,7 +35,7 @@ slides:
   - content: |
       ## Select with CSS
 
-      jQuery (and Javascript) use CSS selectors to grab things in the HTML document
+      jQuery (and JavaScript) use CSS selectors to grab things in the HTML document
 
       - `ul`, `h1`, `div`
       - `.dino-list`, `.bones`
@@ -62,6 +62,6 @@ slides:
       ## Videos & tutorials
 
       - [Document object model ➔](/topics/dom/)
-      - [Javascript cheat sheet ➔](/topics/javascript-cheat-sheet/)
+      - [JavaScript cheat sheet ➔](/topics/javascript-cheat-sheet/)
 
 ---

@@ -22,7 +22,7 @@ slides:
 
       1. Form into pairs
       2. [Download the HTML & CSS code snippets](https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/pre-programming-co-coding-code-snippets.zip)
-      2. You’ll be shown a Javascript interaction
+      2. You’ll be shown a JavaScript interaction
       3. Write out the code you’d need—in English
 
   - type: figure

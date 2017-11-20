@@ -11,7 +11,7 @@ slides:
   - content: |
       ## What & why
 
-      Since jQuery is a bunch of pre-written Javascript we need to know what’s available.
+      Since jQuery is a bunch of pre-written JavaScript we need to know what’s available.
 
       Searching through & understanding documentation is a critical component of being a developer.
 
