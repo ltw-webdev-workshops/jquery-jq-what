@@ -158,27 +158,27 @@ slides:
   - type: code
     numbered: 9
     html: |
-      <a href="#" rel="external">Link!</li>
-      <a href="#" rel="colleague external">Link!</li>
-      <a href="#" rel="friend">Link!</li>
-      <a href="#" rel="friend">Link!</li>
-      <a href="#" rel="external">Link!</li>
-      <a href="#" rel="spouse">Link!</li>
-      <a href="#" rel="external spouse">Link!</li>
-      <a href="#" rel="me">Link!</li>
+      <a href="#" rel="external">Link!</a>
+      <a href="#" rel="colleague external">Link!</a>
+      <a href="#" rel="friend">Link!</a>
+      <a href="#" rel="friend">Link!</a>
+      <a href="#" rel="external">Link!</a>
+      <a href="#" rel="spouse">Link!</a>
+      <a href="#" rel="external spouse">Link!</a>
+      <a href="#" rel="me">Link!</a>
     html_lines: "1,2,5,7"
 
   - type: code
     numbered: 10
     html: |
-      <a href="https://wikipedia.org/wiki/a">Link!</li>
-      <a href="https://wikipedia.org/wiki/b">Link!</li>
-      <a href="https://google.com">Link!</li>
-      <a href="https://wikipedia.org/wiki/c">Link!</li>
-      <a href="https://github.com">Link!</li>
-      <a href="https://wikipedia.org/wiki/d">Link!</li>
-      <a href="https://starwars.com">Link!</li>
-      <a href="https://wikipedia.org/wiki/e">Link!</li>
+      <a href="https://wikipedia.org/wiki/a">Link!</a>
+      <a href="https://wikipedia.org/wiki/b">Link!</a>
+      <a href="https://google.com">Link!</a>
+      <a href="https://wikipedia.org/wiki/c">Link!</a>
+      <a href="https://github.com">Link!</a>
+      <a href="https://wikipedia.org/wiki/d">Link!</a>
+      <a href="https://starwars.com">Link!</a>
+      <a href="https://wikipedia.org/wiki/e">Link!</a>
     html_lines: "1,2,4,6,8"
 
 ---
