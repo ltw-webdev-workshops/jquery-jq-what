@@ -21,7 +21,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the pre-written JavaScript code snippets](https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/jquery-jigsaw-code-snippets.zip)
+      2. [Download the pre-written JavaScript code snippets](https://assets.learntheweb.courses/workshops/jquery-jq-what/jquery-jigsaw-code-snippets.zip)
       2. Print & cut out all the pieces of code
       3. Reassemble the jumbled pieces into a functional program to match the English you did in the last activity
 

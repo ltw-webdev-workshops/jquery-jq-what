@@ -21,33 +21,33 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the HTML & CSS code snippets](https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/pre-programming-co-coding-code-snippets.zip)
+      2. [Download the HTML & CSS code snippets](https://assets.learntheweb.courses/workshops/jquery-jq-what/pre-programming-co-coding-code-snippets.zip)
       2. You’ll be shown a JavaScript interaction
       3. Write out the code you’d need—in English
 
   - type: figure
     numbered: 1
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/toggle-nav.mp4"
+    video: "https://assets.learntheweb.courses/workshops/jquery-jq-what/toggle-nav.mp4"
     caption: "**Toggle nav**"
 
   - type: figure
     numbered: 2
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/carousel-single-buttons.mp4"
+    video: "https://assets.learntheweb.courses/workshops/jquery-jq-what/carousel-single-buttons.mp4"
     caption: "**Carousel, with single buttons**"
 
   - type: figure
     numbered: 3
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/data-filter.mp4"
+    video: "https://assets.learntheweb.courses/workshops/jquery-jq-what/data-filter.mp4"
     caption: "**Data filter**"
 
   - type: figure
     numbered: 4
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/to-do-list.mp4"
+    video: "https://assets.learntheweb.courses/workshops/jquery-jq-what/to-do-list.mp4"
     caption: "**To-do list**"
 
   - type: figure
     numbered: 5
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/jquery-jq-what/carousel-next-prev.mp4"
+    video: "https://assets.learntheweb.courses/workshops/jquery-jq-what/carousel-next-prev.mp4"
     caption: "**Carousel, with next/previous buttons**"
 
 ---
