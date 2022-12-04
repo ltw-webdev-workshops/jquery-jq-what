@@ -27,27 +27,27 @@ slides:
 
   - type: figure
     numbered: 1
-    video: "https://videos.learntheweb.courses/playlists/jquery-jq-what/1-toggle-nav.mp4"
+    video: "https://video-assets.learntheweb.courses/jquery-jq-what/1-toggle-nav.mp4"
     caption: "**Toggle nav**"
 
   - type: figure
     numbered: 2
-    video: "https://videos.learntheweb.courses/playlists/jquery-jq-what/2-carousel-single-buttons.mp4"
+    video: "https://video-assets.learntheweb.courses/jquery-jq-what/2-carousel-single-buttons.mp4"
     caption: "**Carousel, with single buttons**"
 
   - type: figure
     numbered: 3
-    video: "https://videos.learntheweb.courses/playlists/jquery-jq-what/3-data-filter.mp4"
+    video: "https://video-assets.learntheweb.courses/jquery-jq-what/3-data-filter.mp4"
     caption: "**Data filter**"
 
   - type: figure
     numbered: 4
-    video: "https://videos.learntheweb.courses/playlists/jquery-jq-what/4-to-do-list.mp4"
+    video: "https://video-assets.learntheweb.courses/jquery-jq-what/4-to-do-list.mp4"
     caption: "**To-do list**"
 
   - type: figure
     numbered: 5
-    video: "https://videos.learntheweb.courses/playlists/jquery-jq-what/5-carousel-next-prev.mp4"
+    video: "https://video-assets.learntheweb.courses/jquery-jq-what/5-carousel-next-prev.mp4"
     caption: "**Carousel, with next/previous buttons**"
 
 ---
